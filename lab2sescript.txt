@@ -1,0 +1,35 @@
+LAB 02
+Advanced programming
+
+
+
+
+
+
+
+
+
+
+
+
+Submitted By:
+Sobia arshad
+01312
+
+
+
+
+
+
+
+
+INTRODUCTION:
+In this lab we implement the lab 1 task such that the program is memory leak free.
+
+Approach:
+We have used templates to do the memory management in this program.
+We have replaced the arrays with vector standard template.
+
+Analysis:
+Time analysis is being done .we can change the vector size in program to test the efficieny of the program.
+
